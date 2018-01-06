@@ -1,0 +1,9 @@
+Rohith Reddy
+rreddy5
+B00593531
+what doesn't work:
+		Everything works, except the case of setAssociative where numSets = 2
+						  and the next line prefetching when numSets = 2 as well
+						  I'm not sure why they aren't working, becauese all other cases
+						  are working just fine except the first one. In both cases, the 
+						  numbers I get are within 5 of the correct answer
